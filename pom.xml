@@ -38,12 +38,12 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>nexus</id>
+			<id>NPM001</id>
 			<name>Releases</name>
 			<url>http://192.168.188.134:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
-			<id>nexus</id>
+			<id>NPM001</id>
 			<name>Snapshot</name>
 			<url>http://192.168.188.134:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
