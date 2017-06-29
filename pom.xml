@@ -95,6 +95,7 @@
           <scope>test</scope>
         </dependency>
       </dependencies>
+<>
     </profile>	 -->
 	</profiles>
 	
